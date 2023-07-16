@@ -8,6 +8,12 @@ font-family: 'Work Sans', sans-serif;
     color: #727272;
 
 }
+.section-tittle{
+    
+    color:  #131313;
+    font-size: 45px;
+    font-weight: 700;
+}
 header{
     background: rgba(255, 144, 14, 0.10);
     padding:50px 240px;
@@ -30,12 +36,7 @@ nav li a{
     text-decoration: none;
     color: #424242;
 }
-.nav-tittle{
-    
-    color:  #131313;
-    font-size: 45px;
-    font-weight: 700;
-}
+
 .banner-content{
     max-width: 800px;
     text-align: center;
